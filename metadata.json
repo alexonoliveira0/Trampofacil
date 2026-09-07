@@ -1,6 +1,0 @@
-{
-  "name": "TrampoFácil Serviços & Orçamentos",
-  "description": "Plataforma de trabalho autônomo com orçamentos de profissionais, taxa de cliente, mensalidade de prestador e PIX BACEN.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
